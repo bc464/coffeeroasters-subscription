@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/bc464/coffeeroasters-subscription]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://bc464.github.io/coffeeroasters-subscription/index.html]
 
 ## My process
 
